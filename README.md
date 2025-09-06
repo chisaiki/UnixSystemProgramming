@@ -2,7 +2,7 @@
 System level programs built to be useful or interesting tools to interact with your Linux machine!
 
 ## Programs Included:
-- Log Time: Program to track user sessions and events
-- File Compare: 
+- Log Time: Program to track user sessions and events.
+- File Compare: File comparison tool with metadata options.
 - Diff Date: System date validation and comparison logic. Allows multi-language output. 
 
