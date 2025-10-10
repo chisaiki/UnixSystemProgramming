@@ -11,7 +11,7 @@ This program is a Unix/Linux user session tracking utility that reads the system
 - **Session Status**: Identifies users still logged in, abnormal logouts, and system crashes
 
 ## Video Tutorial
-[Add your video tutorial link here when available]
+[Add video tutorial link here when available]
 
 ## Usage
 ```bash
